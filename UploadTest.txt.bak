@@ -1,0 +1,31 @@
+
+default variables:
+
+
+String
+in-built:
+string manipulation:
+	length()
+	charAT()
+	concat()
+	contains()
+	startsWith()
+	endsWith()
+	equals()
+	indexof() returns indexof given character of substring
+	isEmpty()
+	substring()
+	toChar()  string to character array
+	trim() eliminater leading and trailing spaces
+	toLowerCase()
+	toUpperCase()
+	
+methods are behavior.
+class are 	
+overriding as polymorphism
+
+Power Engineering Techniques - 482
+	has good profond future.
+Static method cananot access 
+
+
